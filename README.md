@@ -9,7 +9,7 @@ Facts about CSW's Involvement in Bitcoin
 ## Forgeries/fakes
 
 * [Craig Wright faked blog posts](http://archive.is/t20d4)
-* [Crigh Wright faked PGP keys](http://archive.is/v8kfs)
+* [Craig Wright faked PGP keys](http://archive.is/v8kfs)
 * [Craig Wright forged contracts and emails](http://archive.is/O0CHg)
 * [Craig Wright faked threats](http://archive.is/YTDGT)
 * [Craig Wright faked a public key signing](http://archive.is/dNCUX)
